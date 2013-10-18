@@ -899,71 +899,137 @@ The JavaScript Task Runner
 
 ---
 
-#### twitter/google+
+# Developer Rockstars Google+/Twitter
+- **Addy Osmani** Creator of Yeoman, TodoMVC, Aura & more [@addyosmani](https://twitter.com/addyosmani)
 
-who to follow:
+- **Paul Irish** Chrome dev, CSS please, Boilerplate [@paul_irish](https://twitter.com/addyosmani)
 
-**Addy Osmani** @addyosmani
-Creator of Yeoman, TodoMVC, Aura & more
+- **David Walsh** Mozilla Web Developer, MooTools Core Developer [@davidwalshblog](https://twitter.com/davidwalshblog)
 
-**David Walsh** @davidwalshblog
+- **Steve Souders** web performance engineer [@Souders](https://twitter.com/souders)
 
-Mozilla Web Developer, MooTools Core Developer
+- **Andre Jay Meissner** Web worker[@klick_ass](https://twitter.com/souders)
 
-**Steve Souders** @Souders
-web performance engineer
+- **Jan Lehnardt** @CouchDB • @jsconfeu • @hoodiehq [@janl](https://twitter.com/janl)
 
-**Andre Jay Meissner** @klick_ass
-Web worker
+- **Christian Heilmann** Mozilla Developer Evangelist [@codepo8](https://twitter.com/codepo8)
 
-**Jan Lehnardt** @janl
-@CouchDB • @jsconfeu • @hoodiehq
+- **John Resig** @jeresig Creator of @jquery [@jeresig](https://twitter.com/jeresig)
 
-**Christian Heilmann** @codepo8
-Mozilla Developer Evangelist
+- **Divya Manian** CSS please, Boilerplate [@divya](https://twitter.com/divya)
 
-**Paul Irish** @paul_irish
-Chrome dev, CSS please, Boilerplate
+- **Nicholas C. Zakas** ex YUI Developer [@slicknet](https://twitter.com/slicknet)
 
-**John Resig** @jeresig
-Creator of @jquery
+- **Vincent Hardy** Adobe Webstandards [@vincent_hardy](https://twitter.com/vincent_hardy)
 
-**Divya Manian** @divya
-CSS please, Boilerplate
+- **xnoɹǝʃ uɐıɹq** Apache Cordova, Adobe Phonegap [@brianleroux](https://twitter.com/brianleroux)
 
-**Nicholas C. Zakas** @slicknet
-ex YUI Developer
+- **Dion Almaer** [@dalmaer](https://twitter.com/dalmaer)
 
-**Vincent Hardy** @vincent_hardy
-Adobe Webstandards
+- **Jeff Atwood** [@codinghorror](https://twitter.com/codinghorror)
 
-**xnoɹǝʃ uɐıɹq** @brianleroux
-Apache Cordova, Adobe Phonegap
+- **Šime Vidas** webplatformdaily.org [@simevidas](https://twitter.com/simevidas)
 
-**Christian Schaefer** @derSchepp
+- **Sindre Sorhus** Grunt, Yeoman, Bower [@sindresorhus](https://twitter.com/sindresorhus)
 
-**Anselm Hannemann** @helloanselm
+- **Nicole Sullivan** Speaker [@stubbornella](https://twitter.com/stubbornella)
 
-**Dion Almaer** @dalmaer
+- **Jeremy Keith** Speaker [@adactio](https://twitter.com/adactio)
+
+- **Jake Archibald** Googler, Speaker [@jaffathecake](https://twitter.com/jaffathecake)
+
+- **Ben Alman** Creator of @gruntjs [@cowboy](https://twitter.com/cowboy)
+
+- **Mathias Bynens** Boilerplate [@mathias](https://twitter.com/mathias)
+
+- **Nicolas Gallagher** Software Engineer @twitter [@necolas](https://twitter.com/necolas)
+
+- **Chris Coyier** css-tricks.com [@chriscoyier](https://twitter.com/chriscoyier)‏
+
+- **Brad Frost** Speaker [@brad_frost](https://twitter.com/brad_frost)‏
+
+- **Lea Verou** Speaker, @dabblet [@LeaVerou](https://twitter.com/LeaVerou)‏
+
+###German Guys
+
+- **Christian Schaefer** @workingdraft [@derSchepp](https://twitter.com/derSchepp)
+
+- **Anselm Hannemann** [@helloanselm](https://twitter.com/helloanselm)
+
+- **Peter Kröner** @workingdraft HTML5-Buchautor, "Erklärbär" [@sir_pepe](https://twitter.com/sir_pepe)
+
+- **Stefan Baumgartner** @workingdraft [@ddprrt](https://twitter.com/ddprrt)
+
+- **Sebastian Golasch** Speaker, @dalekjs ‏[@asciidisco](https://twitter.com/asciidisco)
+
+- **Rodney Rehm** Speaker Created URI.js [@rodneyrehm](https://twitter.com/rodneyrehm)
+
+- **Hans Christian Reinl** Boilerplate [@drublic](https://twitter.com/drublic)
+
+- **Frederic Hemberger** @cgnjs [@fhemberger](https://twitter.com/fhemberger)
+
+- **Kahlil Lechelt** [@distilledhype](https://twitter.com/distilledhype)‏
 
 ---
 
-#### News/Blogs/Newsletter
+#Podcasts
 
-- Hackernews mobile <http://ihackernews.com/new>
-- Hackernews desktop <https://news.ycombinator.com/>
-- Twitter Developer Blog <https://dev.twitter.com/blog>
-- Airbnb Engineering: <http://nerds.airbnb.com/>
+- **Workingdraft** German Weekly Podcast about Web-Development <http://workingdraft.de/>
+
+- **Vier Diskusionen** German Weekly Pocast about the Web (not only for Developers) <http://vier.fm/diskussionen/>
+
+
+- **Shoptalk** Weekly Pocast with Chris Coyier <http://shoptalkshow.com/>
+
+- **Javascript Jabber** Javascript Podcast <http://javascriptjabber.com/>
+
+
+---
+
+# News/Blogs
+
+- **Hackernews mobile** <http://ihackernews.com/new>
+
+- **Hackernews desktop** <https://news.ycombinator.com/>
+
+- **Twitter Developer Blog** <https://dev.twitter.com/blog>
+
+- **Airbnb Engineering** <http://nerds.airbnb.com/>
+
+- **Open Web Platform Daily Digest** <http://webplatformdaily.org/>
+
+- **A List Apart** <http://alistapart.com/>
+
+- **CSS-Tricks** <http://css-tricks.com/>
+
+- **HTML5-Bookmarks** <http://html5bookmarks.com/>
+
+- **Smashing Magazine** <http://www.smashingmagazine.com/>
+
 
 ---
 
-#### Newsletter
+#Newsletter
 
-- HTML5 Weekly <http://html5weekly.com/>
-- JavaScript Weekly <http://javascriptweekly.com/>
-- Web Development Reading List <http://wdrl.helloanselm.com/>
+- **HTML5 Weekly** <http://html5weekly.com/>
+
+- **JavaScript Weekly** <http://javascriptweekly.com/>
+
+- **Web Development Reading List** <http://wdrl.helloanselm.com/>
+
+- **Web Tools Weekly** <http://webtoolsweekly.com/>
 
 ---
+
+#Resources
+- **Collection Web-Resources** <http://uptodate.frontendrescue.org/>
+
+----
+
+#####Authors from @mwaylabs
+- @hano
+- @mathiastim
+
 
 ## Anhang
 - Eclipse Project des Cordova Beispiels
@@ -974,9 +1040,27 @@ Apache Cordova, Adobe Phonegap
 <br />
 ![M-Way Consulting](mwaysolutions_logo-big.png)<br />
 
-M-Way Solutions GmbHStresemannstr. 79<br />70191 Stuttgart<br />Telefon +49 (0)711-25254-627<br />Telefax +49 (0)711-25254-701<br />
+M-Way Solutions GmbH
 
-**Geschäftsführer:**Volker Hahn, Richard Malley, Tom Metzger, Peter Necheles **Sitz/Registergericht** Stuttgart HRB 25158 <br />**St.-Nr.:** 99043/02990 <br />**UST-ID:** DE240271880	Landesbank Baden-Württemberg <br />**Konto** 2516080  •  **BLZ** 600 501 01 <br />**IBAN:** DE41 6005 0101 0002 5160 80 <br />**SWIFT:** SOLA DE ST<br />**E-Mail:** info@mwaysolutions.com <br />**Internet:** http://www.mwaysolutions.com
+Stresemannstr. 79<br />
+70191 Stuttgart<br />
+
+Telefon +49 (0)711-25254-627<br />
+Telefax +49 (0)711-25254-701<br />
+
+**Geschäftsführer:**
+Volker Hahn, Richard Malley, 
+Tom Metzger, Peter Necheles 
+
+**Sitz/Registergericht** Stuttgart HRB 25158 <br />
+**St.-Nr.:** 99043/02990 <br />
+**UST-ID:** DE240271880	Landesbank Baden-Württemberg <br />
+**Konto** 2516080  •  **BLZ** 600 501 01 <br />
+**IBAN:** DE41 6005 0101 0002 5160 80 <br />
+**SWIFT:** SOLA DE ST<br />
+
+**E-Mail:** info@mwaysolutions.com <br />
+**Internet:** http://www.mwaysolutions.com
 
 
 ---
