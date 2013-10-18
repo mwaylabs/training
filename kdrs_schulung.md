@@ -1026,11 +1026,6 @@ The JavaScript Task Runner
 
 ----
 
-#####Authors from @mwaylabs
-- @hano
-- @mathiastim
-
-
 ## Anhang
 - Eclipse Project des Cordova Beispiels
 
