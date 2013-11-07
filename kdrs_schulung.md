@@ -56,8 +56,7 @@ E-Mail: <info@mwaysolutions.com>
 ### Marco Hanowski
 **Kontakt**
 
-- Phone   +49 (0) 711-25254-630
-- Mobile  +49 (0) 173 1537508
+- Phone   +49 (0) 711-25254-600
 - Fax     +49 (0) 711-25254-701
 - Mail m.hanowski@mwaysolutions.com
 
